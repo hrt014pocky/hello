@@ -1,13 +1,13 @@
 /*
  * @Date: 2022-01-28 01:13:07
  * @LastEditors: Szang
- * @LastEditTime: 2022-01-28 13:59:59
- * @FilePath: \hello\main.go
+ * @LastEditTime: 2022-01-28 14:12:47
+ * @FilePath: \hello\hello.go
  */
-package main
+package hello
 
 import "fmt"
 
-func main() {
+func SayHi() {
 	fmt.Println("Hello everybody! Im pocky, glad meet 2u!")
 }
